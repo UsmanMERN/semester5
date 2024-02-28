@@ -1,0 +1,9 @@
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe.config
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.pdb
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.Form1.resources
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.exe
+C:\Saim\5th Sem\VP\Assingments\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.pdb

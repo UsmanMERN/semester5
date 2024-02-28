@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>String and Number Methods</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            display: flex;
+            height: 50%;
+            width: 100%;
+        }
+
+        #stringMethods {
+            background-color: lightblue;
+            width: 50%;
+            box-sizing: border-box;
+            padding: 10px;
+        }
+
+        #numericMethods {
+            background-color: lightgreen;
+            width: 50%;
+            box-sizing: border-box;
+            padding: 10px;
+        }
+
+        #output {
+            background-color: lightgrey;
+            flex: 1;
+            padding: 10px;
+            overflow-y: auto;
+        }
+    </style>
+    <script>function stringMethod(method) {
+    let output = '';
+
+    if (method === 'charAt') {
+        const inputString = prompt('Enter a string:');
+        const index = parseInt(prompt('Enter an index:'));
+
+        if (inputString && !isNaN(index)) {
+            if (index >= 0 && index < inputString.length) {
+                output = `Character at index ${index}: ${inputString.charAt(index)}`;
+            } else {
+                output = 'Invalid index!';
+            }
+        } else {
+            output = 'Invalid input!';
+        }
+    } else if (method === 'charCodeAt') {
+        const inputString = prompt('Enter a string:');
+        const index = parseInt(prompt('Enter an index:'));
+
+        if (inputString && !isNaN(index)) {
+            if (index >= 0 && index < inputString.length) {
+                output = `Character code at index ${index}: ${inputString.charCodeAt(index)}`;
+            } else {
+                output = 'Invalid index!';
+            }
+        } else {
+            output = 'Invalid input!';
+        }
+    } else if (method === 'concat') {
+        const string1 = prompt('Enter first string:');
+        const string2 = prompt('Enter second string:');
+
+        if (string1 && string2) {
+            output = `Concatenated string: ${string1.concat(string2)}`;
+        } else {
+            output = 'Invalid input!';
+        }
+    } else if (method === 'indexOf') {
+        const inputString = prompt('Enter a string:');
+        const searchString = prompt('Enter search string:');
+
+        if (inputString && searchString) {
+            const index = inputString.indexOf(searchString);
+            output = index !== -1 ? `First occurrence at index: ${index}` : 'String not found!';
+        } else {
+            output = 'Invalid input!';
+        }
+    } // Implement other string methods similarly...
+
+    document.getElementById('output').innerHTML = output;
+}
+
+function numericMethod(method) {
+    let output = '';
+
+    if (method === 'constructor') {
+        const number = Number(prompt('Enter a number:'));
+
+        if (!isNaN(number)) {
+            output = `Constructed Number: ${number.constructor}`;
+        } else {
+            output = 'Invalid input!';
+        }
+    } else if (method === 'toExponential') {
+        const number = parseFloat(prompt('Enter a number:'));
+
+        if (!isNaN(number)) {
+            output = `Exponential notation: ${number.toExponential()}`;
+        } else {
+            output = 'Invalid input!';
+        }
+    } else if (method === 'toFixed') {
+        const number = parseFloat(prompt('Enter a number:'));
+        const digits = parseInt(prompt('Enter the number of digits:'));
+
+        if (!isNaN(number) && !isNaN(digits)) {
+            output = `Fixed decimal number: ${number.toFixed(digits)}`;
+        } else {
+            output = 'Invalid input!';
+        }
+    } else if (method === 'toLocaleString') {
+        const number = parseFloat(prompt('Enter a number:'));
+
+        if (!isNaN(number)) {
+            output = `Localized string representation: ${number.toLocaleString()}`;
+        } else {
+            output = 'Invalid input!';
+        }
+    } // Implement other numeric methods similarly...
+
+    document.getElementById('output').innerHTML = output;
+}
+</script>
+</head>
+<body>
+    <div class="container">
+        <div id="stringMethods">
+            <h1>String Methods</h1>
+            <button onclick="stringMethod('charAt')">charAt</button>
+            <button onclick="stringMethod('charCodeAt')">charCodeAt</button>
+            <button onclick="stringMethod('concat')">concat</button>
+            <button onclick="stringMethod('indexOf')">indexOf</button>
+            <button onclick="stringMethod('lastIndexOf')">lastIndexOf</button>
+            <button onclick="stringMethod('length')">length</button>
+            <button onclick="stringMethod('match')">match</button>
+            <button onclick="stringMethod('replace')">replace</button>
+            <button onclick="stringMethod('search')">search</button>
+            <button onclick="stringMethod('slice')">slice</button>
+            <button onclick="stringMethod('split')">split</button>
+            <button onclick="stringMethod('substr')">substr</button>
+            <button onclick="stringMethod('substring')">substring</button>
+            <button onclick="stringMethod('toLocaleLowerCase')">toLocaleLowerCase</button>
+            <button onclick="stringMethod('toLocaleUpperCase')">toLocaleUpperCase</button>
+            <button onclick="stringMethod('toLowerCase')">toLowerCase</button>
+            <button onclick="stringMethod('toUpperCase')">toUpperCase</button>
+            <button onclick="stringMethod('toString')">toString</button>
+            <button onclick="stringMethod('valueOf')">valueOf</button>
+        </div>
+        <div id="numericMethods">
+            <h1>Numeric Methods</h1>
+            <button onclick="numericMethod('constructor')">Constructor</button>
+            <button onclick="numericMethod('toExponential')">toExponential</button>
+            <button onclick="numericMethod('toFixed')">toFixed</button>
+            <button onclick="numericMethod('toLocaleString')">toLocaleString</button>
+            <button onclick="numericMethod('toPrecision')">toPrecision</button>
+            <button onclick="numericMethod('toString')">toString</button>
+            <button onclick="numericMethod('valueOf')">valueOf</button>
+        </div>
+    </div>
+
+    <div id="output"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

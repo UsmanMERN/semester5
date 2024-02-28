@@ -1,0 +1,17 @@
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\bin\Debug\net6.0-windows\C sharp Calculator.exe
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\bin\Debug\net6.0-windows\C sharp Calculator.deps.json
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\bin\Debug\net6.0-windows\C sharp Calculator.runtimeconfig.json
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\bin\Debug\net6.0-windows\C sharp Calculator.dll
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\bin\Debug\net6.0-windows\C sharp Calculator.pdb
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.csproj.AssemblyReference.cache
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C_sharp_Calculator.Form1.resources
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.csproj.GenerateResource.cache
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.AssemblyInfoInputs.cache
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.AssemblyInfo.cs
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.dll
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\refint\C sharp Calculator.dll
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.pdb
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\C sharp Calculator.genruntimeconfig.cache
+C:\Users\Multan Printers\source\repos\C sharp Calculator\C sharp Calculator\obj\Debug\net6.0-windows\ref\C sharp Calculator.dll

@@ -1,0 +1,5 @@
+Presentation Layer
+Business Layer(operation logics )
+Data Layer(CRUD)
+CLF
+		easy to apply oop concepts

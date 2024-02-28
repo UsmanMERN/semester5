@@ -1,0 +1,10 @@
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\bin\Debug\DrawGraphics.exe.config
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\bin\Debug\DrawGraphics.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\bin\Debug\DrawGraphics.pdb
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.Form1.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.Properties.Resources.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\DrawGraphics\DrawGraphics\obj\Debug\DrawGraphics.pdb

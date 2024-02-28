@@ -1,0 +1,11 @@
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\bin\Debug\ExcelTask.exe.config
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\bin\Debug\ExcelTask.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\bin\Debug\ExcelTask.pdb
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.csproj.ResolveComReference.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.Form1.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.Properties.Resources.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\ExcelTask\ExcelTask\obj\Debug\ExcelTask.pdb

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gcuf</title>
+    <style>
+        .admission-form {
+            width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+
+        .admission-form h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .admission-form label {
+            display: block;
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+
+        .admission-form input,
+        .admission-form textarea,
+        .admission-form select {
+            width: calc(100% - 20px);
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+        }
+
+        .admission-form button {
+            width: 100%;
+            background-color: #000;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body class="">
+    <div class="admission-form">
+        <h1>Admission Form</h1>
+
+        <form id="admissionForm">
+            <label for="form_no">Form No.:</label>
+            <input type="text" id="form_no" name="form_no">
+
+            <h2>Applicant Information</h2>
+
+            <label for="applicant_name">Applicant's Name:</label>
+            <input type="text" id="applicant_name" name="applicant_name">
+
+            <label for="applicant_cnic">Applicant's CNIC/B-Form No.:</label>
+            <input type="text" id="applicant_cnic" name="applicant_cnic">
+
+            <label for="father_name">Father's Name:</label>
+            <input type="text" id="father_name" name="father_name">
+
+            <label for="father_cnic">Father's CNIC No.:</label>
+            <input type="text" id="father_cnic" name="father_cnic">
+
+            <label for="guardian_name">Guardian's Name:</label>
+            <input type="text" id="guardian_name" name="guardian_name">
+
+            <label for="guardian_cnic">Guardian's CNIC No.:</label>
+            <input type="text" id="guardian_cnic" name="guardian_cnic">
+
+            <label for="guardian_address">Guardian Address:</label>
+            <textarea id="guardian_address" name="guardian_address"></textarea>
+
+            <h2>Domicile Information</h2>
+
+            <label for="domicile_district">Domicile District:</label>
+            <input type="text" id="domicile_district" name="domicile_district">
+
+            <label for="temporary_address">Temporary Address:</label>
+            <textarea id="temporary_address" name="temporary_address"></textarea>
+
+            <label for="permanent_address">Permanent Address:</label>
+            <textarea id="permanent_address" name="permanent_address"></textarea>
+
+            <h2>Other Information</h2>
+
+            <label for="father_occupation">Father's Occupation:</label>
+            <input type="text" id="father_occupation" name="father_occupation">
+
+            <label for="applicant_contact_no">Applicant's Contact No.:</label>
+            <input type="text" id="applicant_contact_no" name="applicant_contact_no">
+
+            <label for="father_guardian_contact_no">Father's/Guardian's Contact No.:</label>
+            <input type="text" id="father_guardian_contact_no" name="father_guardian_contact_no">
+
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email">
+
+            <label for="applicant_dob">Applicant's Date of Birth:</label>
+            <input type="date" id="applicant_dob" name="applicant_dob">
+
+            <label for="applicant_age">Applicant's Age on Closing Date:</label>
+            <input type="number" id="applicant_age" name="applicant_age">
+
+            <label for="religion">Religion:</label>
+            <input type="text" id="religion" name="religion">
+
+            <label for="nationality">Nationality:</label>
+            <input type="text" id="nationality" name="nationality">
+
+            <label for="gender">Gender:</label>
+            <select name="gender" id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label for="marital_status">Marital Status:</label>
+            <select name="marital_status" id="marital_status">
+                <option value="single">Single</option>
+                <option value="married">Married</option>
+                <option value="divorced">Divorced</option>
+                <option value="widowed">Widowed</option>
+            </select>
+
+            <label for="board_university_registration_no">Board/University Registration No. (Last Attended):</label>
+            <input type="text" id="board_university_registration_no" name="board_university_registration_no">
+
+            <label for="hafiz_e_quran_certificate">Hafiz-e-Quran (in case of Yes, attach valid certificate):</label>
+            <input type="file" id="hafiz_e_quran_certificate" name="hafiz_e_quran_certificate">
+
+            <label for="qualification">Qualification which makes you eligible for this admission:</label>
+            <textarea id="qualification" name="qualification"></textarea>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date">
+
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+
+            <label for="signature">Signature of the Dealing Person:</label>
+            <input type="file" id="signature" name="signature">
+
+            <p>Applicant's Receipt</p>
+
+            <label for="program">Program:</label>
+            <input type="text" id="program" name="program">
+
+            <p>Intermediate/Associate Degree/Diploma Program</p>
+
+            <label for="father_name_2">Father's Name:</label>
+            <input type="text" id="father_name_2" name="father_name_2">
+
+            <label for="form_no_2">Form No.:</label>
+            <input type="text" id="form_no_2" name="form_no_2">
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+        <script>
+        document.getElementById('admissionForm').addEventListener('submit', function (event) {
+            event.preventDefault(); // Prevent the default form submission
+            const formData = new FormData(this);
+            for (var pair of formData.entries()) {
+                console.log(pair[0] + ': ' + pair[1]);
+            }
+        });
+    </script>
+</body>
+
+</html>

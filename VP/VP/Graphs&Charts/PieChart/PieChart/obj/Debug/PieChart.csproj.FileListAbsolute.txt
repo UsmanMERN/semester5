@@ -1,0 +1,11 @@
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\bin\Debug\PieChart.exe.config
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\bin\Debug\PieChart.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\bin\Debug\PieChart.pdb
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.csproj.ResolveComReference.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.pdb
+C:\Saim\5th Sem\VP\Graphs&Charts\PieChart\PieChart\obj\Debug\PieChart.Form1.resources

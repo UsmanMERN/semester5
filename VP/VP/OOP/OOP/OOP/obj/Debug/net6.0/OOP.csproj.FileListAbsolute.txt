@@ -1,0 +1,14 @@
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\bin\Debug\net6.0\OOP.exe
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\bin\Debug\net6.0\OOP.dll
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.dll
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Saim\5th Sem\VP\OOP\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll

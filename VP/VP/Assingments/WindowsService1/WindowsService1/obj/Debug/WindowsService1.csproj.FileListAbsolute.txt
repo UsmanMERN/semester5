@@ -1,0 +1,9 @@
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Saim\5th Sem\VP\Assingments\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

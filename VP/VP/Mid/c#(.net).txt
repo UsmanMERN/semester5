@@ -1,0 +1,24 @@
+Solution Exploror:
+	
+		program.cs - code run anytime we run the application
+		proporties(folder)->AssemblyInfo.cs - contain information yor can Title, Description, CopyRight,trademark info here
+		referance(folder) - these are referances to cod built in c#
+		sln(file) - it has the entire solution of your application
+		suo(file) - it has info about visual code envoirnment settings
+		-click on above button on tool bar show all files now you see 2 more bin , obj inside bin theres a debug folder in which the exe file of our program is avaliable
+
+
+Code 
+		namespace line includes name of your app namespace is the way to group related code
+		Main methord is the starting point of your program
+		
+
+Run Program
+		
+		Click build > Build Solution
+		Click Debug > Start without debugging
+
+Designer/Code view
+		
+		Form1.cs right click and select the view you want
+		form1.cs has partial class Form1 shows some code is hidden 

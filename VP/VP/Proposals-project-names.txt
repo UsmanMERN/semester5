@@ -1,0 +1,7 @@
+Weather App with API Integration
+Chat Application
+Video Streaming App
+Snake Game
+E-commerce Application
+File Sharing System
+AI - PDF Summarizer

@@ -1,0 +1,173 @@
+Pre-PrecessDirectives 
+		
+		In C#, preprocessor directives are used to control the compilation process and conditionally include or exclude portions of code in your 		source files. (#) symbol 
+				
+				#define DEBUG
+				#undef DEBUG
+
+				#if DEBUG
+				// Debug code
+
+				#else
+				// Release code
+
+				#endif
+
+				#warning This is a warning message.
+				#error This is an error message.
+		
+				#line 100 "CustomFile.cs"
+				// Code here
+				#line default
+
+				#pragma warning disable 1591 // Disable warning CS1591
+				// Code here
+				#pragma warning restore 1591 // Restore warning CS1591
+
+Access-Specifiers
+		
+		Access specifiers in C# are keywords that determine the visibility and accessibility of types and members (fields, methods, properties, 		etc.) within C# classes and assemblies.
+		
+			1-public--anywhere
+			2-private--sameClass
+			3-protected--sameClass+drivedClasses--inharitance
+			4-internal--sameAssembly
+			5-protectedInternal--sameAssembly+DrivedClasses-withinAssemblyOrNot
+			!6-private protected--sameAssembly-!drivedClasses
+
+
+Inharitance
+		1-singleInharitance
+		2-MultipleInharitance--multipleSuperClasses->DiamondProblem->virtual-keywordOrLikeVInharitance
+		3-MultilevelInharitance--FormsChain
+
+Polymorphisum
+	
+	Achived BY
+		
+		MethordOverLoading
+		MethordOverRiding
+
+	Types
+		CompileTimeP-(Static)-MethordOverLoading-Methords Have Same Name Diff Parameters(num of Parameters's or diff Type of Patameters)
+		RunTimeP-(Dynamic)-MethordOverRiding-SubClasses Def their own implementatin of methord which is already Def in super class-				AssociatedWithInharitance (using virtual in SuperC and OverRide in SubC)
+
+Function(methord) Signature
+		
+		Function-Parameters and return Type
+
+Virtual Function
+		
+		in OOP Declared in Base Class using virtual keyword to be Overided in drived class allows Polymorphisum - MetordOverRiding
+
+Friend Function
+	
+		its not a member func of class but still given special access of private and protedted members of that class
+
+Encapsolution
+	
+		Bundling data and methords for that data into a single unit this process called class in OOP and that unit called object
+		
+		Features:
+		
+			DataHiding
+			AccessControll
+			DataValidation and Consistency
+
+Dynamic Memory 
+
+		also known as heap memory, the memory allocated at run time known as Dynamic Memory ( eg: in c malloc , calloc , ralloc)
+		eg: in c++ Array a = new Array(5);
+
+UserDefind DataTypes 
+		
+		Structure, Union , class
+
+Primitive dataTypes
+	
+		-Building blocks of programing language
+		-Stored directly in memory + fixed Size
+		-Store Single value
+		--Eg: int , char , boolean , float , double
+
+
+Non-Premitive dataTypes
+
+		-complex and can store multiple values
+		-not stored direct memory(use Referance in memory)
+		-not fixed in size
+		--Eg: array , string , class
+
+
+Static liberaries 
+		
+		static liberary has main func 
+		dose not depend on any other liberary
+		execuitable by itself
+		usually Large files
+		Difficult to maintain
+
+
+Dynamic liberaries
+
+		also known as shared Liberary	
+		dosent have any main func (starting point)
+		bind with other liberaies at runtime
+		small size
+		easy update
+		efficent memory usage
+		virsion compatiablity required to update other libs 
+		slightly slower
+ 
+
+Dynamic Polymorphisum (Runtime Polymorphisum) in C#
+
+		achived through methord overiding it allows the objects of drived class to be treated as object of base class
+
+			class Animal{
+					
+					// some methords
+	
+					}
+
+			class Dog : Animal{
+
+					// overRide above methord and define again
+
+					}
+		
+			Animal a = new Dog(); // Possible
+			Dog d = new Animal(); // Not possible
+
+
+
+
+Constants
+		
+		value cannot be changed(immutable), fixed value , must be known compilte time , keyword const
+
+
+try-catch 
+	 
+		used for exception(error) handling 
+		code in try block is executed if any exception is occured it is caught in catch block overall it helps and prevents a program from 			crashing
+		
+		
+
+concepts::>
+	
+	-> OS calls main methord of program not compiler
+	-> Assembly in C# refer to compiled unit of code that contain one or more .NET Types(classes,interfaces) these are the building blocks of .NET 	framework they can take the form of Dynamic Link Liberaries (.DLLs) or .exe files
+	-> Diamond Problem occurs in Multiple inharitance bcz of a class having multiple super classes having a same methord defind in each super class
+	solution inharit a class using virtual keywork in c++
+	-> why friend function in c++ disobay OOP rule :: bcz it allows friend func to access private or protected data members of a class
+	->diff in mutable and immutable : value can be changed called mutable , value can not be changed called immutable
+	-> (call by value) = a copy of auctual arguments is used not the auctual argumant  : dose not change auctual value
+	-> (call by referance) = memory address of argument is passed : changes auctual value
+	-> Structure and Union = are datatypes used for grouping of multiple datatypes within single name :: structure uses seperate memory locations all 	fields could be active	, Union shares memory only one field could be active at a time
+	-> sizeof operator used to get the  size of Datatype in bytes
+	-> Static memory allocated at compile time have fixed size used for variables with a constant or global scope
+	-> Dynamic memory allocated at run time variable sized memory allocation used in data structures like array linkedlist
+	-> static data Members associated with class not with object of that class , shared across all instances of that class
+	-> non static data members associated with objects unique for eacch instance of class 
+

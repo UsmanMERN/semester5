@@ -1,0 +1,16 @@
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\bin\Debug\net6.0-windows\calculator again.exe
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\bin\Debug\net6.0-windows\calculator again.deps.json
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\bin\Debug\net6.0-windows\calculator again.runtimeconfig.json
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\bin\Debug\net6.0-windows\calculator again.dll
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\bin\Debug\net6.0-windows\calculator again.pdb
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator_again.Form1.resources
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.AssemblyInfoInputs.cache
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.AssemblyInfo.cs
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.dll
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\refint\calculator again.dll
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.pdb
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\calculator again.genruntimeconfig.cache
+C:\Saim\5th Sem\VP\Assingments\calculator again\calculator again\obj\Debug\net6.0-windows\ref\calculator again.dll

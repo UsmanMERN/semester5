@@ -1,0 +1,10 @@
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\bin\Debug\MenuStripe.exe.config
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\bin\Debug\MenuStripe.exe
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\bin\Debug\MenuStripe.pdb
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.Form1.resources
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.Properties.Resources.resources
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.exe
+C:\Saim\5th Sem\VP\OOP\MenuStripe\MenuStripe\obj\Debug\MenuStripe.pdb

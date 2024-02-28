@@ -1,0 +1,10 @@
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\bin\Debug\DBConn.exe.config
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\bin\Debug\DBConn.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\bin\Debug\DBConn.pdb
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.csproj.AssemblyReference.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.Form1.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.Properties.Resources.resources
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.exe
+C:\Saim\5th Sem\VP\Graphs&Charts\DBConn\DBConn\obj\Debug\DBConn.pdb

@@ -1,0 +1,32 @@
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Saim\5th Sem\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+K:\1-Uni\5-semester\VP\VP\Assingments\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
